@@ -7,4 +7,4 @@ REMIX front/backend
 
 22/12/21 - Update. Exploring remix was cool, it definitely has some nice features. However this project doesnt communicate with a database at all nor have use for much if its features. I linked it to a mongodb database before I realised I am literally not handling any data LOL. As of today, its quite tricky using three js and react-three-fiber packages with remix, so I've decided to move this project over to a normal react App in order to render my cute Wall-E model.
 
-16/04/22 - Note. I forgot to thank Girish21, a kind member from the REMIX discord community that taught me about <Suspense></Suspense> from react. The entire REMIX community is actually wonderful.
+16/04/22 - Note. I forgot to thank Girish21, a kind member from the REMIX discord community that taught me about <Suspense> from react. The entire REMIX community is actually wonderful.
